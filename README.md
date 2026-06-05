@@ -1,3 +1,9 @@
+# Cortex MoE – Mixture of Experts Inference
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 🧠 Cortex-MoE: Mixture of Experts
 
 An intelligent system that automatically routes questions to specialized AI experts.
